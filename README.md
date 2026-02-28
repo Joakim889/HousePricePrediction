@@ -16,7 +16,7 @@ This repository contains a machine learning project that builds a deep learning 
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Joakim889/HousePricePrediction.git
    cd HousePricePredict
    ```
 
